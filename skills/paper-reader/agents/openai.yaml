@@ -1,0 +1,4 @@
+interface:
+  display_name: "Paper Reader"
+  short_description: "Read, explain, and compare research papers like a patient mentor"
+  default_prompt: "Use $paper-reader to walk me through this paper step by step in Chinese, explain the method and experiments, and keep follow-up answers grounded in the same paper."
